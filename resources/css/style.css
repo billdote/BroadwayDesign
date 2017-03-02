@@ -11,12 +11,12 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  text-shadow: -1px 1px black;
+  text-shadow: -1px 1px black, 1px -1px black;
 }
 .links a {
   font-size: 18px;
   color: white;
-  text-shadow: -1px 1px black;
+  text-shadow: -1px 1px black, 1px -1px black;
 }
 h2 {
   font-size: 32px;
@@ -47,5 +47,5 @@ p {
 }
 .btmLinks {
   color: white;
-  text-shadow: -1px 1px black;
+  text-shadow: -1px 1px black, 1px -1px black;
 }
