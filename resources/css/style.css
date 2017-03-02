@@ -4,6 +4,7 @@ html {
   background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/asanoha-400px.png")
 }
 .bgImage {
+  opacity: 0.85;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
 }
 h1 {
@@ -27,7 +28,7 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
 }
 p {
   font-size: 14px;
@@ -39,4 +40,7 @@ p {
 .footerNav {
   background-color: dimgray;
   text-align: left;
+}
+.footLinks {
+  color: white;
 }
