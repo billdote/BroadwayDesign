@@ -3,7 +3,7 @@ html {
   text-align: center;
   background-image: url("../images/backgroundpattern-400px.png")
 }
-.bgImage {
+.headerNav {
   background-image: url("../images/the-flatiron-building.jpg");
   background-position: 65%;
 }
@@ -13,7 +13,7 @@ h1 {
   color: white;
   text-shadow: -1px 1px black, 1px -1px black;
 }
-.links a {
+.nav {
   font-size: 18px;
   color: white;
   text-shadow: -1px 1px black, 1px -1px black;
@@ -32,7 +32,8 @@ h4 {
   font-weight: bold;
   color: white;
   text-shadow: -0.5px 0.5px  black;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
+  background-image: url("../images/nycbw.jpg");
+  background-position: 75%;
 }
 p {
   font-size: 14px;
@@ -45,7 +46,6 @@ p {
   background-color: dimgray;
   text-align: left;
 }
-.btmLinks {
-  color: white;
-  text-shadow: -0.5px 0.5px black, 0.5px -0.5px black;
+.btmNav .nav{
+  text-shadow: -0.3px 0.3px black, 0.3px -0.3px black;
 }
