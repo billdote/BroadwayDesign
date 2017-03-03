@@ -31,9 +31,9 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  text-shadow: -0.5px 0.5px  black;
-  background-image: url("http://www.twitrcovers.com/wp-content/uploads/2013/02/New-York-City-l.jpg");
-  background-position: bottom;
+  text-shadow: -1px 1px  black;
+  background-image: url("../images/nycbw.jpg");
+  background-position: top;
 }
 p {
   font-size: 14px;
